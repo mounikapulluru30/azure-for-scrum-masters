@@ -1,6 +1,6 @@
 # ☁️ Azure for Scrum Masters
 
-A practical learning journey to build **Azure, Azure DevOps, and cloud delivery knowledge from a Scrum Master perspective**.
+**A practical learning journey to build Azure, Azure DevOps, and cloud delivery knowledge from a Scrum Master perspective.**
 
 ---
 
@@ -20,32 +20,32 @@ However, working with modern software delivery teams increasingly means understa
 * Monitoring
 * Engineering workflows
 
-This repository documents my structured learning journey to develop that understanding, with a specific focus on **how Azure and Azure DevOps concepts relate to Agile delivery and Scrum Master responsibilities**.
+This repository documents my structured learning journey to develop that understanding, with a specific focus on how **Azure and Azure DevOps concepts relate to Agile delivery and Scrum Master responsibilities**.
 
 The goal is not simply to complete courses or memorize Azure services.
 
-The goal is to:
+The goal is:
 
-> **Learn → Practice → Validate → Reflect → Share**
+> **Learn → Practice → Validate → Reflect → Share → Improve**
 
 ---
 
-## 🧭 Learning Approach
+# 🧭 Learning Approach
 
-Each lesson follows the same cycle:
+Each lesson follows the same learning cycle:
 
 ```text
-        LEARN
-          ↓
-        PRACTICE
-          ↓
-        VALIDATE
-          ↓
-        REFLECT
-          ↓
-         SHARE
-          ↓
-        IMPROVE
+LEARN
+  ↓
+PRACTICE
+  ↓
+VALIDATE
+  ↓
+REFLECT
+  ↓
+SHARE
+  ↓
+IMPROVE
 ```
 
 For each topic, I aim to understand:
@@ -72,19 +72,19 @@ Practical Scrum Master / Agile Delivery interview questions related to the topic
 
 ---
 
-## 🎯 Target Outcome
+# 🎯 Target Outcome
 
 By completing this learning journey, I aim to confidently discuss:
 
 > **How Azure and Azure DevOps concepts support Agile software delivery and how a Scrum Master can facilitate effectively in teams working with cloud and DevOps environments.**
 
-This is a learning journey focused on **practical understanding rather than memorization or certification alone**.
+This is a learning journey focused on **practical understanding, application, and reflection rather than memorization or certification alone.**
+
+---
 
 # 🗺️ Learning Roadmap
 
-This learning journey is divided into **four stages**, moving from Azure fundamentals to Azure DevOps and finally to a practical Agile delivery simulation.
-
----
+This learning journey is divided into four stages, moving from Azure fundamentals to Azure DevOps and finally to a practical Agile delivery simulation.
 
 ## 📅 Week 1 — Azure Fundamentals
 
@@ -99,7 +99,7 @@ This learning journey is divided into **four stages**, moving from Azure fundame
 | 05     | Identity & Security Basics | ⏳           |
 | 06     | Azure Monitoring           | ⏳           |
 
-### Topics covered
+### Topics
 
 * Cloud computing
 * Microsoft Azure
@@ -136,7 +136,7 @@ Instead, the objective is to understand enough cloud terminology and concepts to
 
 # 🧩 Week 2 — Azure DevOps
 
-**Goal:** Understand how Azure DevOps can support Agile software delivery and Scrum practices.
+**Goal:** Understand how Azure DevOps can support Agile software delivery and Scrum practices.**
 
 | Lesson | Topic                               | Status |
 | ------ | ----------------------------------- | ------ |
@@ -145,74 +145,81 @@ Instead, the objective is to understand enough cloud terminology and concepts to
 | 09     | Queries, Dashboards & Agile Metrics | ⏳      |
 | 10     | Dependencies & Delivery Plans       | ⏳      |
 
-### Topics covered
+### Topics
 
 * Azure DevOps overview
 * Azure Boards
 * Work Items
-*Epics
-*Features
-*User Stories
-*Tasks
-*Product Backlog
-*Sprint Backlog
-*Iterations
-*Queries
-*Dashboards
-*Burndown
-*Burnup
-*Delivery Plans
-*Dependencies
+* Epics
+* Features
+* User Stories
+* Tasks
+* Product Backlog
+* Sprint Backlog
+* Iterations
+* Queries
+* Dashboards
+* Burndown
+* Burnup
+* Delivery Plans
+* Dependencies
 
 ### Scrum Master Perspective
 
 The objective is to understand how Azure DevOps can support:
 
-Product Backlog management
-Sprint Planning
-Daily Scrum
-Sprint Reviews
-Sprint Retrospectives
-Progress transparency
-Dependency management
-Impediment visibility
-Delivery tracking
-Stakeholder communication
+* Product Backlog management
+* Sprint Planning
+* Daily Scrum
+* Sprint Review
+* Sprint Retrospective
+* Progress transparency
+* Dependency management
+* Impediment visibility
+* Delivery tracking
+* Stakeholder communication
+
+---
 
 # ⚙️ Week 3 — DevOps for Scrum Masters
 
-Goal: Understand the technical delivery pipeline without trying to become a DevOps engineer.
+**Goal:** Understand the technical delivery pipeline without trying to become a DevOps engineer.**
 
-Lesson	Topic	Status
-11	Git & Pull Requests	⏳
-12	CI/CD & Azure Pipelines	⏳
-13	Environments & Deployments	⏳
-Topics covered
-Git
-Repository
-Branch
-Commit
-Pull Request
-Merge
-Code Review
-CI/CD
-Continuous Integration
-Continuous Delivery
-Continuous Deployment
-Build
-Automated Testing
-Artifact
-Pipeline
-Deployment
-Environments
-Development
-Test
-UAT
-Production
-Scrum Master Perspective
+| Lesson | Topic                      | Status |
+| ------ | -------------------------- | ------ |
+| 11     | Git & Pull Requests        | ⏳      |
+| 12     | CI/CD & Azure Pipelines    | ⏳      |
+| 13     | Environments & Deployments | ⏳      |
+
+### Topics
+
+* Git
+* Repository
+* Branch
+* Commit
+* Pull Request
+* Merge
+* Code Review
+* CI/CD
+* Continuous Integration
+* Continuous Delivery
+* Continuous Deployment
+* Build
+* Automated Testing
+* Artifact
+* Pipeline
+* Deployment
+* Environments
+* Development
+* Test
+* UAT
+* Production
+
+### Scrum Master Perspective
 
 Understand how work moves through a typical delivery flow:
 
+```text
 Developer
     ↓
 Git Repository
@@ -230,20 +237,28 @@ Deployment
 Environment
     ↓
 Monitoring
+```
 
 The goal is to understand the delivery flow and facilitate conversations when technical impediments affect the Sprint or product delivery.
 
-🚀 Week 4 — Practical Project
+---
 
-Goal: Bring the concepts together through a simulated Agile delivery project.
+# 🚀 Week 4 — Practical Project
 
-Lesson	Topic	Status
-14	End-to-End Azure Agile Delivery	⏳
-15	Capstone Project — Azure DevOps Scrum Master Simulation	⏳
+**Goal:** Bring the concepts together through a simulated Agile delivery project.**
+
+| Lesson | Topic                                                   | Status |
+| ------ | ------------------------------------------------------- | ------ |
+| 14     | End-to-End Azure Agile Delivery                         | ⏳      |
+| 15     | Capstone Project — Azure DevOps Scrum Master Simulation | ⏳      |
 
 The practical project will simulate how a Scrum Master could work with a team delivering a cloud-based application.
 
-📁 Repository Structure
+---
+
+# 📁 Repository Structure
+
+```text
 azure-for-scrum-masters/
 │
 ├── README.md
@@ -287,14 +302,24 @@ azure-for-scrum-masters/
 ├── 13-environments-and-deployments/
 │   └── README.md
 │
-└── 14-capstone-project/
+├── 14-end-to-end-azure-agile-delivery/
+│   └── README.md
+│
+└── 15-capstone-project/
     └── README.md
-📌 Lesson Documentation Format
+```
 
-Each completed lesson will contain its own README.md.
+> The lesson folders will be added progressively as I complete and validate each topic.
+
+---
+
+# 📌 Lesson Documentation Format
+
+Each completed lesson will contain its own `README.md`.
 
 The lesson documentation will generally include:
 
+```text
 # Lesson Title
 
 ## Learning Objectives
@@ -316,12 +341,15 @@ The lesson documentation will generally include:
 ## Key Takeaways
 
 ## Status
+```
 
-This structure keeps the repository focused on actual learning, practice, reflection, and application rather than simply collecting notes.
+This structure keeps the repository focused on **actual learning, practice, reflection, and application** rather than simply collecting notes.
+
+---
 
 # 🔗 Azure + Scrum Master Connection
 
-One of the main objectives of this repository is to connect **technical concepts with Scrum Master responsibilities**.
+One of the main objectives of this repository is to connect technical concepts with Scrum Master responsibilities.
 
 A Scrum Master does not need to solve every technical problem personally.
 
@@ -369,7 +397,7 @@ However, understanding the technical delivery context can help a Scrum Master:
 
 Consider this situation:
 
-> "The team completed the development work, but the deployment to UAT is blocked because the Azure pipeline is failing."
+> **The team completed the development work, but the deployment to UAT is blocked because the Azure pipeline is failing.**
 
 A Scrum Master does not need to fix the pipeline.
 
@@ -413,26 +441,32 @@ The Scrum Master's role may involve:
 * Facilitating collaboration
 * Connecting the appropriate people
 * Following up on the impediment
-*Ensuring the impact is understood
-*Helping the team focus on resolving the blocker
-🚀 Practical Capstone Project
+* Ensuring the impact is understood
+* Helping the team focus on resolving the blocker
 
-The final stage of this learning journey will bring the concepts together through a simulated Agile software delivery project.
+---
 
-Project: Employee Leave Management System
+# 🚀 Practical Capstone Project
+
+The final stage of this learning journey will bring the concepts together through a **simulated Agile software delivery project**.
+
+## Project: Employee Leave Management System
 
 The purpose of this project is to practice Scrum Master activities in a technical/cloud delivery context.
 
-Example Product Areas
-Employee Leave Request
-Manager Approval
-Leave Balance
-Leave History
-🧱 Example Backlog Structure
+### Example Product Areas
+
+* Employee Leave Request
+* Manager Approval
+* Leave Balance
+* Leave History
+
+### 🧱 Example Backlog Structure
+
+```text
 Epic
 │
 ├── Feature
-│   │
 │   ├── User Story
 │   │   ├── Task
 │   │   ├── Task
@@ -441,128 +475,149 @@ Epic
 │   └── User Story
 │
 └── Feature
-    │
     └── User Story
-🏃 Sprint Activities
+```
+
+---
+
+## 🏃 Sprint Activities
 
 The simulation will include:
 
-Sprint Planning
-Sprint Goal
-Product Backlog selection
-Capacity considerations
-Dependencies
-Risks
-Definition of Done
-Daily Scrum
+* Sprint Planning
+* Sprint Goal
+* Product Backlog selection
+* Capacity considerations
+* Dependencies
+* Risks
+* Definition of Done
+* Daily Scrum
+
+### Daily Scrum
 
 Practice discussing:
 
-Progress
-Current work
-Impediments
-Dependencies
-Risks affecting the Sprint Goal
-Sprint Review
+* Progress
+* Current work
+* Impediments
+* Dependencies
+* Risks affecting the Sprint Goal
+
+### Sprint Review
 
 Practice:
 
-Demonstrating the Increment
-Gathering stakeholder feedback
-Inspecting outcomes
-Identifying possible Product Backlog changes
-Sprint Retrospective
+* Demonstrating the Increment
+* Gathering stakeholder feedback
+* Inspecting outcomes
+* Identifying possible Product Backlog changes
+
+### Sprint Retrospective
 
 Practice:
 
-Inspecting the way of working
-Identifying improvement opportunities
-Creating actionable improvement items
-📊 Delivery & Agile Metrics
+* Inspecting the way of working
+* Identifying improvement opportunities
+* Creating actionable improvement items
 
-The project will also explore metrics that can help provide transparency.
+---
+
+# 📊 Delivery & Agile Metrics
+
+The project will explore metrics that can help provide transparency.
 
 Potential topics include:
 
-Sprint Burndown
-Burnup
-Velocity
-Cycle Time
-Lead Time
-Work in Progress
-Throughput
-Defect trends
-Blocked work
-Dependency trends
+* Sprint Burndown
+* Burnup
+* Velocity
+* Cycle Time
+* Lead Time
+* Work in Progress
+* Throughput
+* Defect Trends
+* Blocked Work
+* Dependency Trends
 
-The focus will be on using metrics to support conversations and improvement, rather than using metrics to judge individual team members.
+The focus will be on using metrics to support **conversations, transparency, and improvement**, rather than using metrics to judge individual team members.
 
-🔄 Technical Delivery Flow
+---
+
+# 🔄 Technical Delivery Flow
 
 The capstone project will connect Agile work management with a simplified technical delivery flow:
 
+```text
 Product Backlog
-       ↓
+      ↓
 Sprint Planning
-       ↓
+      ↓
 User Story
-       ↓
+      ↓
 Development
-       ↓
+      ↓
 Git
-       ↓
+      ↓
 Pull Request
-       ↓
+      ↓
 Build
-       ↓
+      ↓
 Automated Tests
-       ↓
+      ↓
 Artifact
-       ↓
+      ↓
 Deployment
-       ↓
+      ↓
 UAT
-       ↓
+      ↓
 Production
-       ↓
+      ↓
 Monitoring
-       ↓
+      ↓
 Feedback
-       ↓
+      ↓
 Product Backlog
+```
 
-This helps connect the Scrum lifecycle with the technical delivery lifecycle.
+This helps connect the **Scrum lifecycle** with the **technical delivery lifecycle**.
 
-🎯 Capstone Learning Objectives
+---
+
+# 🎯 Capstone Learning Objectives
 
 By completing the capstone project, I aim to practice:
 
-Agile backlog management
-Sprint planning
-Dependency management
-Risk identification
-Impediment management
-Technical stakeholder collaboration
-Azure DevOps concepts
-Git workflow concepts
-CI/CD concepts
-Environment management
-Deployment concepts
-Agile metrics
-Inspection and adaptation
-🧠 What This Project Represents
+* Agile backlog management
+* Sprint planning
+* Dependency management
+* Risk identification
+* Impediment management
+* Technical stakeholder collaboration
+* Azure DevOps concepts
+* Git workflow concepts
+* CI/CD concepts
+* Environment management
+* Deployment concepts
+* Agile metrics
+* Inspection and adaptation
 
-This capstone is a learning simulation.
+---
+
+# 🧠 What This Project Represents
+
+This capstone is a **learning simulation**.
 
 It is intended to demonstrate:
 
-How I understand Agile delivery
-How I apply concepts in a controlled practice environment
-How I connect technical concepts with Scrum Master responsibilities
-How I approach delivery impediments and dependencies
-How I continuously inspect and improve my understanding
+* How I understand Agile delivery
+* How I apply concepts in a controlled practice environment
+* How I connect technical concepts with Scrum Master responsibilities
+* How I approach delivery impediments and dependencies
+* How I continuously inspect and improve my understanding
 
-It is *not presented as client/project experience.
+> **It is not presented as client/project experience.**
+
+---
 
 # 🧠 Learning Philosophy
 
@@ -607,13 +662,13 @@ This repository contains:
 * Interview preparation
 * Personal reflections
 
-Unless explicitly stated otherwise, the activities documented here **should not be interpreted as professional client/project experience**.
+Unless explicitly stated otherwise, the activities documented here should **not** be interpreted as professional client/project experience.
 
 The purpose of this repository is to demonstrate:
 
 > **Continuous learning + practical understanding + reflection + application**
 
-I believe it is important to clearly distinguish between **learning/practice experience** and **professional project experience**.
+I believe it is important to clearly distinguish between learning/practice experience and professional project experience.
 
 ---
 
@@ -653,24 +708,25 @@ Discuss these concepts confidently during Scrum Master / Agile Delivery intervie
 
 # 📊 Learning Progress
 
-| Area                          | Progress      |
-| ----------------------------- | ------------- |
-| Azure & Cloud Fundamentals    | 🟢 Completed  |
-| Azure Architecture            | 🔜 Upcoming   |
-| Azure Compute                 | ⚪ Not Started |
-| Storage & Databases           | ⚪ Not Started |
-| Identity & Security           | ⚪ Not Started |
-| Monitoring                    | ⚪ Not Started |
-| Azure Boards                  | ⚪ Not Started |
-| Agile Work Management         | ⚪ Not Started |
-| Agile Metrics & Dashboards    | ⚪ Not Started |
-| Dependencies & Delivery Plans | ⚪ Not Started |
-| Git                           | ⚪ Not Started |
-| Pull Requests                 | ⚪ Not Started |
-| CI/CD                         | ⚪ Not Started |
-| Azure Pipelines               | ⚪ Not Started |
-| Environments & Deployments    | ⚪ Not Started |
-| Capstone Project              | ⚪ Not Started |
+| Area                            | Progress      |
+| ------------------------------- | ------------- |
+| Azure & Cloud Fundamentals      | 🟢 Completed  |
+| Azure Architecture              | 🔜 Upcoming   |
+| Azure Compute                   | ⚪ Not Started |
+| Storage & Databases             | ⚪ Not Started |
+| Identity & Security             | ⚪ Not Started |
+| Monitoring                      | ⚪ Not Started |
+| Azure Boards                    | ⚪ Not Started |
+| Agile Work Management           | ⚪ Not Started |
+| Agile Metrics & Dashboards      | ⚪ Not Started |
+| Dependencies & Delivery Plans   | ⚪ Not Started |
+| Git                             | ⚪ Not Started |
+| Pull Requests                   | ⚪ Not Started |
+| CI/CD                           | ⚪ Not Started |
+| Azure Pipelines                 | ⚪ Not Started |
+| Environments & Deployments      | ⚪ Not Started |
+| End-to-End Azure Agile Delivery | ⚪ Not Started |
+| Capstone Project                | ⚪ Not Started |
 
 ---
 
@@ -678,7 +734,7 @@ Discuss these concepts confidently during Scrum Master / Agile Delivery intervie
 
 ## ✅ Lesson 1 — Azure & Cloud Fundamentals
 
-Topics completed:
+### Topics Completed
 
 * Cloud computing
 * Microsoft Azure
@@ -687,7 +743,7 @@ Topics completed:
 * SaaS
 * Azure pipeline basics
 * Build, test, and deployment stages
-* Application/configuration/environment/permission issues
+* Application, configuration, environment, and permission issues
 * Scrum Master's role in understanding technical impediments
 
 ### Lesson 1 Validation
@@ -702,7 +758,7 @@ I tested my understanding through practical questions and scenarios rather than 
 
 This repository is part of my broader learning journey around **Scrum, Agile delivery, AI, and technical delivery practices**.
 
-### 📘 Scrum Master Case Studies
+## 📘 Scrum Master Case Studies
 
 A collection of realistic Scrum Master scenarios focused on:
 
@@ -717,7 +773,7 @@ A collection of realistic Scrum Master scenarios focused on:
 
 > The case studies are simulations and are clearly distinguished from actual client/project experience.
 
-### 🤖 AI for Scrum Masters
+## 🤖 AI for Scrum Masters
 
 A practical learning project exploring how AI can support Scrum and Agile practices through experiments involving:
 
@@ -731,7 +787,7 @@ The approach is:
 
 > **Generate → Inspect → Identify gaps → Adapt → Improve**
 
-### ☁️ Azure for Scrum Masters
+## ☁️ Azure for Scrum Masters
 
 This repository focuses on:
 
@@ -776,9 +832,9 @@ If you're also learning Azure, Azure DevOps, Agile, Scrum, or DevOps concepts fr
 
 # ⭐ Final Goal
 
-The goal of this repository is not:
+The goal of this repository is **not**:
 
-> **"Become an Azure expert."**
+> "Become an Azure expert."
 
 The goal is:
 
@@ -789,4 +845,3 @@ The goal is:
 ## 🚀 Keep Learning. Keep Practicing. Keep Improving.
 
 **Learn → Practice → Validate → Reflect → Share → Improve**
-
