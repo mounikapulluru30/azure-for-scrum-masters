@@ -1,6 +1,7 @@
 # ☁️ Lesson 1 — Azure & Cloud Fundamentals
 
 **Status:** ✅ Completed
+
 **Validation Score:** 48/50 — **96%**
 
 ---
