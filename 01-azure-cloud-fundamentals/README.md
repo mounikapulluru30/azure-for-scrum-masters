@@ -180,18 +180,12 @@ Other familiar SaaS applications include many browser-based business and product
 A simplified way to remember the models:
 
 ```text
-IaaS
-Infrastructure
-     ↓
-PaaS
-Platform
-     ↓
-SaaS
-Software
+IaaS → Infrastructure
+PaaS → Platform
+SaaS → Software
 ```
 
-As we move from IaaS toward SaaS, more of the underlying infrastructure and platform responsibility is managed by the service provider.
-
+As we move from IaaS → PaaS → SaaS, the cloud provider manages more of the underlying infrastructure and platform, while the customer manages less.
 ### Key Learning
 
 I understood the difference as:
