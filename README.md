@@ -90,14 +90,14 @@ This learning journey is divided into four stages, moving from Azure fundamental
 
 **Goal:** Build a foundational understanding of Microsoft Azure and cloud concepts.
 
-| Lesson | Topic                      | Status      |
-| ------ | -------------------------- | ----------- |
-| 01     | Azure & Cloud Fundamentals | ✅ Completed |
-| 02     | Azure Architecture         | 🔜 Upcoming |
-| 03     | Azure Compute              | ⏳           |
-| 04     | Azure Storage & Databases  | ⏳           |
-| 05     | Identity & Security Basics | ⏳           |
-| 06     | Azure Monitoring           | ⏳           |
+| Lesson | Topic | Status |
+|--------|-------|--------|
+| 01 | Azure & Cloud Fundamentals | ✅ Completed |
+| 02 | Azure Architecture — Regions, Availability Zones, Subscriptions & Resource Groups | ✅ Completed |
+| 03 | Azure Compute | ⏳ Upcoming |
+| 04 | Azure Storage & Databases | ⏳ |
+| 05 | Identity & Security Basics | ⏳ |
+| 06 | Azure Monitoring | ⏳ |
 
 ### Topics
 
