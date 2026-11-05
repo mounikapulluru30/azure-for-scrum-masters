@@ -95,7 +95,7 @@ This learning journey is divided into four stages, moving from Azure fundamental
 | 01 | Azure & Cloud Fundamentals | ✅ Completed |
 | 02 | Azure Architecture — Regions, Availability Zones, Subscriptions & Resource Groups | ✅ Completed |
 | 03 | Azure Compute |✅ Completed |
-| 04 | Azure Storage & Databases |  ⏳ Upcoming |
+| 04 | Azure Storage & Databases | ✅ Completed |
 | 05 | Identity & Security Basics | ⏳ |
 | 06 | Azure Monitoring | ⏳ |
 
